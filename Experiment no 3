@@ -1,4 +1,4 @@
-adityamiya23@cloudshell:~$
+adishbhat23@cloudshell:~$
 #!/bin/bash
 aecho "Hello, $LOGNAME"
 echo "Current date is `date`"
